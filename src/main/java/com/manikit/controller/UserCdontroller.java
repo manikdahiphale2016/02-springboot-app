@@ -11,4 +11,9 @@ public class UserCdontroller {
 		return "";
 	}
 
+	@DeleteMapping("/delete")
+	public void deleteUser(){
+		//code here
+	}
+
 }
